@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
+<p align="center"><a href=".">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cachaza&show_icons=true&theme=tokyonight" />
 </a></p>
 
@@ -15,4 +15,4 @@
 
 
 ### 🌱 My latest projects
-- Nada actualmente
+- TimeMaster
